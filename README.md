@@ -9,6 +9,3 @@ This Flutter application provides various functionalities for users , including 
 ## APP Preview
 ![preview](https://github.com/user-attachments/assets/ac33f5c4-8f81-429c-94a3-7913e23b557f)
 
-## Running the app on your device.
-* Clone this project
-* run the flutter app
